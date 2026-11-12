@@ -8,3 +8,4 @@ Sen ta bort zip filen och gå in i den nya filen som heter lol som är där nu. 
 
 # Uppdatera ⬇
 
+Ta bort den gamla lol filen och sätt ditt den nya genom att göra det som står där uppe.
