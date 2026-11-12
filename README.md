@@ -8,12 +8,13 @@ Sen ta bort zip filen och gå in i den nya filen som heter lol som är där nu. 
 
 # Uppdatera ⬇
 
-Gå upp och tryck på secre.html. Sen tryck på denna knappen för att kopiera den.
+Gå upp och tryck på secret.html. Sen tryck på denna knappen för att kopiera den.
 
-<img src="blob:chrome-untrusted://media-app/e58e29c6-a0d2-4bb1-b5d3-46d57196d1fb" alt="Screenshot 2026-11-12 13.05.24.png"/><img width="838" height="628" alt="image" src="https://github.com/user-attachments/assets/923c823e-3c01-4b76-ae08-7470fe0a1f05" />
+<img width="1005" height="380" alt="Screenshot 2026-11-12 13 05 24" src="https://github.com/user-attachments/assets/1a1cb11b-6374-40a1-962d-172bc465c337" />
+
 
 Sen gå in på den gamla lol filen och tryck på secret.html. Sen tryck på pilen bredvid öppna som är längst upp åt höger och tryck på text.
 
-<img src="blob:chrome-untrusted://media-app/5725247f-8df4-4fc6-802b-385f4754d741" alt="Screenshot 2026-11-12 13.06.39.png"/>![Uploading image.png…]()
+<img width="838" height="628" alt="Screenshot 2026-11-12 13 06 39" src="https://github.com/user-attachments/assets/bf70c3e9-0851-4115-a26d-e6e53417ce91" />
 
 När du är inne tryck på koden, tryck ctrl + a, tryck ctrl + v och tryck ctrl + s för att spara. Sen gå in på websidan och så är den ny.
