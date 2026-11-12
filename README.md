@@ -8,4 +8,6 @@ Sen ta bort zip filen och gå in i den nya filen som heter lol som är där nu. 
 
 # Uppdatera ⬇
 
-Gör samma som där uppe och ta bort den gamla lol filen.
+Gör samma som där uppe och ta bort den gamla lol filen. Om du sätter den nya lol filen som du satte den gamla så kan du använda samma shortcut som du hade innan.
+
+<img width="331" height="201" alt="Screenshot 2026-11-12 13 31 43" src="https://github.com/user-attachments/assets/799f9a4a-fb0e-40bd-9eae-250c8c68be96" />
